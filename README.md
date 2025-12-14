@@ -7,6 +7,12 @@ All the slides are licensed under a Creative Commons Attribution-ShareAlike 4.0 
 
 ## 2025
 
+### De développeur à ingénieur IA : le virage à ne pas manquer (From developer to AI engineer: the transition you can't miss)
+
+🏢 Podcast On Part en Prod 
+
+🎥 [Video](https://www.youtube.com/watch?v=1nXWCuAWVcA)
+
 ### Systèmes multi-agents: panorama et limites (Multi-agent systems: overview and limitations)
 
 🏢 GenAI Montpellier
