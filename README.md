@@ -5,6 +5,25 @@ For each talk, I try to include the slides (when I haven't lost them) and a repl
 
 All the slides are licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
+## 2026
+
+### Comment j'ai redécouvert le cycle de développement logiciel (How I rediscovered the software development lifecycle)
+ 
+🏢 Generative AI Paris
+ 
+🎟️ [Event](https://www.meetup.com/fr-fr/generative-ai-paris/events/315380148/) 📊 [Slides](https://docs.google.com/presentation/d/1LA6Qm5cOS3DYq0ttPp26inLBVbnrMH53Rv-3oX8GxZM/edit)
+ 
+### Tout le monde code avec l'IA. Qui nettoie derrière ? (Everyone is coding with AI. Who's cleaning up the mess?)
+
+🏢 Podcast On Part en Prod
+ 
+🎥 [Video](https://www.youtube.com/watch?v=B0G6J3Q3E2Q)
+ 
+### Le cycle de développement produit à l'ère agentique (Product Development Lifecycle for the Agentic Era)
+ 
+🏢 M6
+ 
+📊 [Slides](https://docs.google.com/presentation/d/1CCL-y32fF_zPxPua8maGnrCg2kVI71Vk4r14_JYOurQ/edit)
 ## 2025
 
 ### De développeur à ingénieur IA : le virage à ne pas manquer (From developer to AI engineer: the transition you can't miss)
