@@ -7,6 +7,12 @@ All the slides are licensed under a Creative Commons Attribution-ShareAlike 4.0 
 
 ## 2026
 
+### Une code review sans humain ? ()
+
+🏢 Webinaire NextLevel
+
+📊 [Slides](https://docs.google.com/presentation/d/19HrX39XzYhSjRjM9X1BquicmfqAeAHE1b-Hgv1cLHVM/edit)
+
 ### Comment j'ai redécouvert le cycle de développement logiciel (How I rediscovered the software development lifecycle)
  
 🏢 Generative AI Paris
