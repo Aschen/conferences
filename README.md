@@ -7,7 +7,7 @@ All the slides are licensed under a Creative Commons Attribution-ShareAlike 4.0 
 
 ## 2026
 
-### Une code review sans humain ? ()
+### Une code review sans humain ? (A code review without human?)
 
 🏢 Webinaire NextLevel
 
